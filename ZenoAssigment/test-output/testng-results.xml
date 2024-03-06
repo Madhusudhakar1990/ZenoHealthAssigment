@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-06T17:41:29 IST" name="Suite" finished-at="2024-03-06T17:43:44 IST" duration-ms="135292">
+    <groups>
+    </groups>
+    <test started-at="2024-03-06T17:41:29 IST" name="Test" finished-at="2024-03-06T17:43:44 IST" duration-ms="135292">
+      <class name="OpenWeather.ZenoAssigment.MainTest">
+        <test-method is-config="true" signature="be4Test()[pri:0, instance:OpenWeather.ZenoAssigment.MainTest@740cae06]" started-at="2024-03-06T17:41:29 IST" name="be4Test" finished-at="2024-03-06T17:41:32 IST" duration-ms="2526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- be4Test -->
+        <test-method is-config="true" signature="engineStart()[pri:0, instance:OpenWeather.ZenoAssigment.MainTest@740cae06]" started-at="2024-03-06T17:41:32 IST" name="engineStart" finished-at="2024-03-06T17:41:56 IST" duration-ms="24175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- engineStart -->
+        <test-method signature="cityWeather()[pri:0, instance:OpenWeather.ZenoAssigment.MainTest@740cae06]" started-at="2024-03-06T17:41:56 IST" name="cityWeather" finished-at="2024-03-06T17:42:10 IST" duration-ms="14080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cityWeather -->
+        <test-method is-config="true" signature="engineStop()[pri:0, instance:OpenWeather.ZenoAssigment.MainTest@740cae06]" started-at="2024-03-06T17:42:10 IST" name="engineStop" finished-at="2024-03-06T17:42:11 IST" duration-ms="1147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- engineStop -->
+        <test-method is-config="true" signature="engineStart()[pri:0, instance:OpenWeather.ZenoAssigment.MainTest@740cae06]" started-at="2024-03-06T17:42:11 IST" name="engineStart" finished-at="2024-03-06T17:42:30 IST" duration-ms="18313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- engineStart -->
+        <test-method signature="incorrectCityNameWeather()[pri:0, instance:OpenWeather.ZenoAssigment.MainTest@740cae06]" started-at="2024-03-06T17:42:30 IST" name="incorrectCityNameWeather" finished-at="2024-03-06T17:42:44 IST" duration-ms="14075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incorrectCityNameWeather -->
+        <test-method is-config="true" signature="engineStop()[pri:0, instance:OpenWeather.ZenoAssigment.MainTest@740cae06]" started-at="2024-03-06T17:42:44 IST" name="engineStop" finished-at="2024-03-06T17:42:44 IST" duration-ms="856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- engineStop -->
+        <test-method is-config="true" signature="engineStart()[pri:0, instance:OpenWeather.ZenoAssigment.MainTest@740cae06]" started-at="2024-03-06T17:42:44 IST" name="engineStart" finished-at="2024-03-06T17:43:02 IST" duration-ms="17316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- engineStart -->
+        <test-method signature="mapLayer()[pri:0, instance:OpenWeather.ZenoAssigment.MainTest@740cae06]" started-at="2024-03-06T17:43:02 IST" name="mapLayer" finished-at="2024-03-06T17:43:12 IST" duration-ms="10606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mapLayer -->
+        <test-method is-config="true" signature="engineStop()[pri:0, instance:OpenWeather.ZenoAssigment.MainTest@740cae06]" started-at="2024-03-06T17:43:12 IST" name="engineStop" finished-at="2024-03-06T17:43:13 IST" duration-ms="959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- engineStop -->
+        <test-method is-config="true" signature="engineStart()[pri:0, instance:OpenWeather.ZenoAssigment.MainTest@740cae06]" started-at="2024-03-06T17:43:13 IST" name="engineStart" finished-at="2024-03-06T17:43:31 IST" duration-ms="17908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- engineStart -->
+        <test-method signature="weatherDetails()[pri:0, instance:OpenWeather.ZenoAssigment.MainTest@740cae06]" started-at="2024-03-06T17:43:31 IST" name="weatherDetails" finished-at="2024-03-06T17:43:43 IST" duration-ms="11699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- weatherDetails -->
+        <test-method is-config="true" signature="engineStop()[pri:0, instance:OpenWeather.ZenoAssigment.MainTest@740cae06]" started-at="2024-03-06T17:43:43 IST" name="engineStop" finished-at="2024-03-06T17:43:44 IST" duration-ms="1135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- engineStop -->
+      </class> <!-- OpenWeather.ZenoAssigment.MainTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
